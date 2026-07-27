@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ashik Mahmud</h1>
-<h3 align="center">Programmer who loves solving problems and building ideas</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ashik%20Mahmud&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-Based in Australia · Exploring AI agents, data analytics, and full-stack web development · Open to remote opportunities
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Programmer+who+loves+solving+problems;Building+AI+agents+%26+data-driven+tools;Exploring+LangGraph%2C+LLMs+%26+full-stack+dev;Open+to+remote+opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Based in Australia
 </p>
 
 <p align="center">
   <a href="https://ashport.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ashport.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://bio.link/imash" target="_blank"><img src="https://img.shields.io/badge/Links-bio.link%2Fimash-1DA1F2?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://twitter.com/BmAshikMahmud" target="_blank"><img src="https://img.shields.io/badge/Twitter-@BmAshikMahmud-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bmmahmud&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -54,12 +63,24 @@ Based in Australia · Exploring AI agents, data analytics, and full-stack web de
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bmmahmud&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmahmud&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=bmmahmud&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bmmahmud&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmmahmud&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bmmahmud&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bmmahmud/bmmahmud/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bmmahmud/bmmahmud/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bmmahmud/bmmahmud/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -69,3 +90,7 @@ Based in Australia · Exploring AI agents, data analytics, and full-stack web de
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashport.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ashport.vercel.app)
 [![Links](https://img.shields.io/badge/bio.link-imash-1DA1F2?style=flat-square&logo=linktree&logoColor=white)](https://bio.link/imash)
 [![Twitter](https://img.shields.io/badge/Twitter-@BmAshikMahmud-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/BmAshikMahmud)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
